@@ -178,8 +178,8 @@ public class UploadAudios {
         String accessSecret = "900e4e0a9e9da2aad6063c4b38ddb0fd";
 
         Map<String, String> userParams = new HashMap<String, String>();
-        userParams.put("<user-defined-key1>", "<user-defined-value1>");
-        userParams.put("<user-defined-key2>", "<user-defined-value2>");
+        //userParams.put("<user-defined-key1>", "<user-defined-value1>");
+        //userParams.put("<user-defined-key2>", "<user-defined-value2>");
 
         UploadAudios ua = new UploadAudios();
 
